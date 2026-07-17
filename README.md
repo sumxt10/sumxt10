@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there%2C+I'm+Sumitkumar+Jha+%F0%9F%91%8B;AI+%26+ML+Enthusiast+%7C+Full-Stack+Developer;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
+
 <!-- Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
 
@@ -104,7 +105,7 @@ Fun fact:      ⚡ I love optimizing things more than finishing them 😄
 - Built an AI-driven insurance-assistance platform enabling users to compare policies, estimate personal risk scores, and receive personalized coverage recommendations, reducing decision time for first-time buyers.
 - 🏆 **Runner-up**, Code-O-Fiesta State-level Hackathon among 100+ teams across Maharashtra.
 
-`<!-- 🔗 Live Demo: [ADD LINK HERE] | 📂 Repo: [ADD LINK HERE] -->`
+`<!-- 🔗 Live Demo: https://insurolife.vercel.app/ | 📂 Repo: https://github.com/sumxt10/InsuroLife-Frontend -->`
 
 </details>
 
@@ -118,7 +119,7 @@ Fun fact:      ⚡ I love optimizing things more than finishing them 😄
 - Built a structured roadmap generator producing stage-wise business plans, reducing manual market research time for early-stage founders.
 - Implemented a Flutter-based cross-platform frontend with a FastAPI backend, supporting seamless idea-to-roadmap workflows in a single session.
 
-`<!-- 🔗 Live Demo: [ADD LINK HERE] | 📂 Repo: [ADD LINK HERE] -->`
+`<!-- 📂 Repo: https://github.com/aditya-debugs/udyog-mitra-backend -->`
 
 </details>
 
@@ -131,7 +132,7 @@ Fun fact:      ⚡ I love optimizing things more than finishing them 😄
 - Built a cloud-based invoicing platform for small businesses on AWS, automating invoice generation, GST/tax calculation, and client tracking, replacing manual spreadsheet workflows.
 - Added exportable PDF/CSV reports and a clean dashboard UI, enabling business owners to manage billing end-to-end without accounting software.
 
-`<!-- 🔗 Live Demo: [ADD LINK HERE] | 📂 Repo: [ADD LINK HERE] -->`
+`<!-- 📂 Repo: https://github.com/SUDOSU810/invoicely-reboot -->`
 
 </details>
 
@@ -145,7 +146,7 @@ Fun fact:      ⚡ I love optimizing things more than finishing them 😄
 - Implemented concurrency-safe order acceptance using Firestore transactions, preventing duplicate order conflicts under simultaneous load.
 - Built real-time order status sync via Firestore snapshot listeners and integrated push notifications using FCM HTTP v1 with OAuth2, ensuring sub-second delivery updates.
 
-`<!-- 🔗 Live Demo: [ADD LINK HERE] | 📂 Repo: [ADD LINK HERE] -->`
+`<!-- 📂 Repo: https://github.com/sumxt10/canteengo -->`
 
 </details>
 
@@ -172,19 +173,9 @@ Fun fact:      ⚡ I love optimizing things more than finishing them 😄
 
 ---
 
-## 📜 Certifications
-
-> _Not listed on resume — add your certifications here, e.g.:_
-- [ADD CERTIFICATION NAME] — [Issuing Platform], [Year]
-- [ADD CERTIFICATION NAME] — [Issuing Platform], [Year]
-
----
-
 ## 🏆 Achievements
 
 - 🥈 **Runner-up**, Code-O-Fiesta State-level Hackathon (100+ teams, Maharashtra) — *InsuroLife*
-- 🎯 Maintaining a **9.85 CGPA** in Computer Engineering at VESIT
-- `<!-- Add more achievements, awards, or recognitions here -->`
 
 ---
 
@@ -196,17 +187,6 @@ Fun fact:      ⚡ I love optimizing things more than finishing them 😄
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
-
----
-
-## 🎯 Goals for 2026
-
-- [ ] Deepen expertise in **Deep Learning & NLP**
-- [ ] Contribute to meaningful **open-source projects**
-- [ ] Ship a production-grade **AI + full-stack** product end-to-end
-- [ ] Sharpen DSA & problem-solving consistency on LeetCode
-- [ ] Land a Summer/Winter internship in **AI/ML or Full-Stack Engineering**
-- [ ] `[ADD MORE PERSONAL GOALS HERE]`
 
 ---
 
@@ -229,12 +209,11 @@ Fun fact:      ⚡ I love optimizing things more than finishing them 😄
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ADD-YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-jha-954a3b288)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumxt10)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ADD-YOUR-LEETCODE-USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sumitjha9324)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitjha9324@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sumxt.10)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ADD-YOUR-PORTFOLIO-URL.com)
 
 📞 **Phone:** 9324737029
 
