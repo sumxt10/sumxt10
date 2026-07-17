@@ -2,10 +2,10 @@
 
 <!-- Animated Typing Banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there%2C+I'm+Sumitkumar+Jha+%F0%9F%91%8B;AI+%26+ML+Enthusiast+%7C+Full-Stack+Developer;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Hi+there%2C+I'm+Sumitkumar+Jha+%F0%9F%91%8B;AI+%26+ML+Enthusiast+%7C+Full-Stack+Developer;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-
+<br>
 <!-- Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
 
